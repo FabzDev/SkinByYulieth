@@ -283,11 +283,11 @@ export function BrandMark({ size = 40 }: { size?: number }) {
         <rect width="64" height="64" rx="18" fill="currentColor" />
         <path
           d="M20 40c8-2 15-9 18-18 2 8 0 15-5 20-4 4-9 5-13 4 0-2 0-4 0-6Z"
-          fill="#e8d8c4"
+          fill="#ffe5d9"
         />
         <path
           d="M20 46c9-1 18-7 23-17"
-          stroke="#c98d76"
+          stroke="#97404a"
           strokeWidth="2.5"
           fill="none"
           strokeLinecap="round"
