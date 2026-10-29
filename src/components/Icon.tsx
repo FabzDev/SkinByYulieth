@@ -287,7 +287,7 @@ export function BrandMark({ size = 40 }: { size?: number }) {
         />
         <path
           d="M20 46c9-1 18-7 23-17"
-          stroke="#97404a"
+          stroke="#8e3f52"
           strokeWidth="2.5"
           fill="none"
           strokeLinecap="round"
